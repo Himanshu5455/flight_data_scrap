@@ -1,0 +1,6 @@
+fastapi
+selenium
+beautifulsoup4
+requests
+sqlalchemy
+pydantic
